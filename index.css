@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+
+body {
+  font-family: "DotGothic16";
+  padding: 36px;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  background-color: hsl(50, 100%, 86%);
+}
+
+main {
+  text-align: center;
+  background-color: #fff;
+  padding: 36px;
+  border-radius: 6px;
+}
+
+#pokemon-name {
+  text-transform: capitalize;
+  font-size: 36px;
+}
+
+#pokemon-image {
+  width: 200px;
+}
+
+h1 {
+  font-size: 16px;
+}
